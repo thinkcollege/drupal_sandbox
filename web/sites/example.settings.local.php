@@ -13,7 +13,7 @@
  *
  * If you are using a site name in the path, such as 'sites/example.com', copy
  * this file to 'sites/example.com/settings.local.php', and uncomment the lines
- * at the bottom of 'sites/example.com/settings.php'.
+ * at the bottom of 'sites/example.com/settings.php'  .
  */
 
 /**
